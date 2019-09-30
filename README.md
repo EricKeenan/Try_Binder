@@ -1,6 +1,6 @@
 # Try_Binder
 
-### I've read binder is a great tool for enabling reproducible data science. Let's give it a try by deploying a simple Jupyter Notebook.
+### Binder is a tool for enabling reproducible data science. Binder creates a docker image of your computing environment and enables live execution of Jupyter Notebooks, all for free! Let's give it a try. 
 
 ### :point_down: Click on the button below to launch! :point_down:
 
