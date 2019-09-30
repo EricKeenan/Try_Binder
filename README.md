@@ -2,5 +2,4 @@
 
 ### I've read binder is a great tool for enabling reproducible data science. Let's give it a try by deploying a simple Jupyter Notebook.
 
-Fill in the fields to see the markdown badge snippet.
- 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EricKeenan/Try_Binder/master) 
